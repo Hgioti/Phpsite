@@ -1,0 +1,13 @@
+body {
+    font: 14px sans-serif;
+    background: url(http://media.enikonomia.gr/data/photos/resized/720_213477_323b9388a7-8fdc962a69894d14.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.wrapper{ 
+	padding: 20px;
+    background: white;
+    border: 2px solid white;
+    border-radius: 0px 0px 60px 60px;
+}
